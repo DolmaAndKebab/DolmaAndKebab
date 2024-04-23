@@ -33,7 +33,7 @@
 - ➊ We are only 2 developers working together.
 - ➋ We are still learning.
 
-# 🖼️ Development Skill set
+# 🖼️ Development Skill Set
 
 ![GithubImage](https://github.com/DolmaAndKebab/DolmaAndKebab/assets/167909479/4a233826-be75-4075-8c3b-aa963e3f326c)
 
